@@ -4,17 +4,6 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">
 
-<!-- AIWITHCHRIS-BANNER-START -->
-<p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
-</p>
-<!-- AIWITHCHRIS-BANNER-END -->
 
 **The most comprehensive collection of APIs on GitHub** - 11,860 core directory APIs plus 200 sponsored partner listings for building everything from simple automations to full-scale applications.
 
@@ -11204,3 +11193,16 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 | [Public Holidays API](https://apify.com/easyapi/public-holidays-api?fpr=p2hrc6) | Access holiday data from over 100 countries with our Public Holiday API! Query public holidays and long weekends effortlessly. With an IoT endpoint to check if today is a holiday, it's perfect for... |
 | [PublicJobs.ie Scraper](https://apify.com/unfenced-group/publicjobs-ie-scraper?fpr=p2hrc6) | Scrape job listings from PublicJobs.ie — Ireland's official public sector recruitment platform. Supports keyword, county and category filters. |
 | [Publix Scraper](https://apify.com/outstanding_vegetable/publix-scraper?fp
+
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
