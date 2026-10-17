@@ -4,6 +4,18 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
 **The most comprehensive collection of APIs on GitHub** - 11,860 core directory APIs plus 200 sponsored partner listings for building everything from simple automations to full-scale applications.
 
 ---
