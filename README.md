@@ -35,15 +35,17 @@
 
 ---
 
-### Sponsored: KamdenAI
+### Sponsored: AI Playbook
 
-**Morning execution signals for traders who want a focused plan before the open.**
-
-KamdenAI gives members a structured morning workflow: 9:15 AM research, 9:28 AM locked field, 9:30 AM confirmed buys, 10:05 AM results, and Developer API webhooks for sending signal events into your own tools.
-
-<a href="https://kamdenai.com/" target="_blank"><img src="./assets/kamdenai-promo.png" alt="KamdenAI morning execution signal system" style="max-width: 100%; height: auto; border-radius: 12px;"></a>
-
-<a href="https://kamdenai.com/" target="_blank"><img src="https://img.shields.io/badge/Visit-KamdenAI.com-00d6a3?style=for-the-badge" alt="Visit KamdenAI.com"></a>
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
 
 </div>
 
